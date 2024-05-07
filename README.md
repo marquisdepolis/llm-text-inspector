@@ -1,6 +1,7 @@
 # llm-text-inspector
  Ways to analyse the different LLMs' text outputs
 
+Here's the comparison chart
 ![LLM output analysed](llm_comparison.png)
 
 # Metrics Explained
