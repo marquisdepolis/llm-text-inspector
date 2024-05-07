@@ -3,42 +3,41 @@
 
 ![LLM output analysed](llm_comparison.png)
 
-Metrics Explained
-Energy
+# Metrics Explained
+**Energy**
 - Definition: A measure of linguistic complexity based on word frequency and grammar structure.
 - Interpretation: Lower scores indicate simpler, more common language usage, while higher scores suggest more complex and rarer language patterns.
 - Usage: Useful for assessing how "natural" or "vibrant" a sentence sounds.
 
-Perplexity
+**Perplexity**
 - Definition: A measurement of how well a language model predicts a text, indicating the model’s uncertainty.
 - Interpretation: Lower scores indicate better predictions and coherent language, while higher scores suggest the opposite.
 - Usage: Used to gauge the fluency and coherence of generated text.
 
-Flesch Reading Ease
+**Flesch Reading Ease**
 - Definition: A readability test that calculates how easy a text is to read based on sentence length and syllable count.
 - Scale: 0 to 100, where higher scores mean easier reading.
 - Interpretation: Scores below 50 are considered difficult to read, while scores above 60 are relatively easy.
 - Usage: Ideal for evaluating the accessibility of a text.
 
-Flesch-Kincaid Grade
+**Flesch-Kincaid Grade**
 - Definition: A readability test that converts the Flesch Reading Ease score to a U.S. grade level.
 - Scale: Corresponds to U.S. school grade levels.
 - Interpretation: A higher score means a more difficult text; for example, a score of 12 means the text is suitable for a 12th-grade student.
 - Usage: Useful for aligning content with the intended audience's education level.
 
-Gunning Fog Index
+**Gunning Fog Index**
 - Definition: A readability test that estimates the years of formal education needed to understand a text.
 - Scale: Usually ranges from 6 to 20, where higher scores indicate more complex text.
 Interpretation: A score of 12 corresponds to a high-school senior’s reading level.
 - Usage: Effective for assessing the general readability of content.
 
-Production Unit Length (PUL)
+**Production Unit Length (PUL)**
 - Definition: Measures the structural complexity of a sentence based on grammatical production units.
 - Interpretation: Longer lengths suggest more complex sentence structures, while shorter lengths indicate simpler sentences.
 - Usage: Useful for analyzing sentence structure and linguistic richness.
 
 ## LLM Evaluation
-
 Based on the image, which compares various metrics across four different LLMs (`openai3`, `openai4`, `ollama`, and `claude`), the following conclusions can be drawn about each LLM and what they might be good for:
 
 1. **openai3**
