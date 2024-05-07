@@ -4,7 +4,7 @@
 Here's the comparison chart
 ![LLM output analysed](llm_comparison.png)
 
-# Metrics Explained
+## Metrics Explained
 **Energy**
 - Definition: A measure of linguistic complexity based on word frequency and grammar structure.
 - Interpretation: Lower scores indicate simpler, more common language usage, while higher scores suggest more complex and rarer language patterns.
