@@ -61,7 +61,7 @@ llmcalls = ['openai3', 'openai4', 'ollama', 'claude']
 
 responses = {}
 for llmcall in llmcalls:
-    response = get_llm_response("Please write a succinct summary that explains the impact of artificial intelligence on the future of work", llmcall)
+    response = get_llm_response("Please write a beautiful fragment of an epic poem that explains the impact of intelligence on life", llmcall)
     responses[llmcall] = response
 
 def calculate_pul(sentence):

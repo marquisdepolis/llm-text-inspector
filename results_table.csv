@@ -1,22 +1,109 @@
 LLM,Response,Energy,Perplexity,Flesch Reading Ease,Flesch-Kincaid Grade,Gunning Fog,Production Unit Length,Summary
-openai3,"Artificial intelligence is revolutionizing the future of work by streamlining tasks, increasing efficiency, and creating new opportunities. While AI may automate certain jobs, it also opens up avenues for innovation, creativity, and the development of new skillsets. Organizations must adapt to this shifting landscape by embracing AI technology and investing in retraining programs to stay competitive in the evolving workforce.",8.420030077739188,20.8656063079834,17.34,15.8,20.0,71,"openai3 presents an energy score of 8.42, indicating a moderate level of vibrancy. openai3 has a perplexity score of 20.87, indicating poor coherence. openai3 has a Flesch Reading Ease of 17.34, suggesting the text is challenging. openai3 has a Flesch-Kincaid Grade of 15.8, suitable for college-level readers. openai3 has a Gunning Fog index of 20.00, indicating complex text. openai3 generated a text of length 71, which is concise."
-openai4,"The impact of artificial intelligence (AI) on the future of work is multifaceted and profound, fundamentally reshaping industries, job roles, and workforce dynamics. By automating routine tasks, AI is poised to enhance operational efficiencies and productivity, allowing human workers to focus on more complex, creative, and strategic activities. This shift promises to spur innovation but also necessitates adaptation in workforce skills, with a growing emphasis on digital literacy, critical thinking, and continuous learning to complement AI capabilities.
+openai3,"In the tapestry of time, where fate unfolds,
+Intelligence shines bright, its story told.
+A beacon in the darkest night, a guiding hand,
+It shapes our world, in ways profound and grand.
 
-Moreover, AI is creating new job categories while rendering some obsolete, thus accelerating the need for workforce reskilling and upskilling. The integration of AI into the workplace also highlights the importance of ethical considerations and the development of policies to mitigate economic disparities resulting from automation-driven unemployment. Overall, while AI presents challenges, including job displacement and skill gaps, its potential to drive economic growth, enhance quality of life, and solve complex problems suggests a future where human work is more creative, strategic, and inherently human, provided that societies navigate the transition with foresight and inclusivity.",8.392777947233022,26.937978744506836,8.5,19.2,22.88,204,"openai4 presents an energy score of 8.39, indicating a moderate level of vibrancy. openai4 has a perplexity score of 26.94, indicating poor coherence. openai4 has a Flesch Reading Ease of 8.50, suggesting the text is challenging. openai4 has a Flesch-Kincaid Grade of 19.2, suitable for college-level readers. openai4 has a Gunning Fog index of 22.88, indicating complex text. openai4 generated a text of length 204, which is concise."
-ollama,"Here is a succinct summary of the impact of artificial intelligence (AI) on the future of work:
+Through wisdom’s gaze, the path is ever clear,
+A light that banishes doubt and fear.
+With minds ablaze, the heavens we may reach,
+And in its glow, all knowledge lies in reach.
 
-**Rise of Automation**: AI will increasingly automate routine, repetitive, and predictable tasks, freeing humans from mundane jobs. This shift will lead to:
+For intelligence, a gift divine bestowed,
+It molds the future, guides the bold.
+In life’s vast tapestry, it weaves a thread,
+A legacy of greatness, by it led.
 
-1. **Job Displacement**: Up to 75% of current jobs may be automated, displacing workers in sectors like manufacturing, customer service, and data entry.
-2. **New Job Creation**: AI will create new job categories that didn't exist before, such as:
-	* AI Trainer and Developer
-	* Data Analyst and Scientist
-	* Digital Content Curator
-3. **Upskilling and Reskilling**: Humans will need to develop new skills to complement AI capabilities, focusing on creative problem-solving, critical thinking, and emotional intelligence.
-4. **Augmentation of Human Work**: AI will amplify human capabilities, enabling workers to focus on high-value tasks that require creativity, empathy, and complex decision-making.
-5. **Changes in Organizational Structure**: Companies may adopt more flexible, decentralized models with AI-driven workflows, altering traditional hierarchies and management styles.
+So heed the call to wisdom’s noble quest,
+Let brilliance shine and put to rest
+The shadows of ignorance, that cloud the way,
+For in intelligence, we find our brightest day.",7.3749939812368845,56.53358459472656,78.99,6.6,8.34,158,"openai3 presents an energy score of 7.37, indicating a moderate level of vibrancy. openai3 has a perplexity score of 56.53, indicating poor coherence. openai3 has a Flesch Reading Ease of 78.99, suggesting the text is easy. openai3 has a Flesch-Kincaid Grade of 6.6, suitable for high-school readers. openai3 has a Gunning Fog index of 8.34, indicating simple text. openai3 generated a text of length 158, which is concise."
+openai4,"In realms of thought and turret-tall dominions,  
+Where mind, the sovereign, weaves its gilded age,  
+There lies a power, profound in its opinions,  
+A torch that lights the dark, a sage's sage.  
+Intelligence, the steed that trials engage,  
+Bestows on life its multifaceted plights,  
+A gem that's cut with facets wide and bright,  
+Reflecting paths where feet may yet to tread.
 
-In summary, the rise of artificial intelligence will significantly reshape the future of work, leading to both job displacement and creation, as well as requiring humans to develop new skills and adapt to changing organizational structures.",9.403482496432957,28.745697021484375,21.43,16.3,17.56,270,"ollama presents an energy score of 9.40, indicating a high level of vibrancy. ollama has a perplexity score of 28.75, indicating poor coherence. ollama has a Flesch Reading Ease of 21.43, suggesting the text is challenging. ollama has a Flesch-Kincaid Grade of 16.3, suitable for college-level readers. ollama has a Gunning Fog index of 17.56, indicating complex text. ollama generated a text of length 270, which is concise."
-claude,"Here is a succinct summary on the impact of AI on the future of work:
+With wisdom's whisper, shadow turns to light,  
+And barren fields, with knowledge richly spread,  
+Blossom beneath the sun, a splendid sight,  
+Where once did lay the skepticism’s dread.  
+'Tis intelligence that gives the soul its flight,  
+A golden key to doors once thought as dead.
 
-Artificial intelligence is poised to significantly transform the future of work in the coming years and decades. AI has the potential to automate many routine cognitive tasks, which could displace large numbers of human workers, especially in fields like manufacturing, transportation, retail, and customer service. At the same time, AI is expected to enhance productivity and complement human capabilities in many occupations, as well as create entirely new jobs in areas like AI development, data analytics, and human-AI collaboration. While estimates vary, most experts predict AI will be a net positive for the economy overall, boosting productivity and freeing up humans to focus on higher-level, more creative work. However, the disruptive impacts could be severe for those whose jobs become obsolete. Proactive policies around skills training, education, job transition support and perhaps universal basic income may be needed to help workers adapt to the AI-driven shifts in the job market. Although the precise impacts remain to be seen, AI is set to be one of the defining forces shaping the 21st century workplace.",7.859166792685752,15.788681030273438,35.71,15.0,16.72,217,"claude presents an energy score of 7.86, indicating a moderate level of vibrancy. claude has a perplexity score of 15.79, indicating poor coherence. claude has a Flesch Reading Ease of 35.71, suggesting the text is challenging. claude has a Flesch-Kincaid Grade of 15.0, suitable for college-level readers. claude has a Gunning Fog index of 16.72, indicating complex text. claude generated a text of length 217, which is concise."
+It lifts the veil from eyes that saw in part,  
+And paints a world with hues of art and heart.  
+Through intellect, the mundane turns divine,  
+A simple grain of sand becomes a shrine.  
+For what is life if not a canvas vast,  
+Where mind's the brush, and intellect the cast?
+
+This power, when wielded with a tender grace,  
+Can forge from sorrow’s coals, a smiling face.  
+It turns the tide of fate’s relentless sea,  
+And binds the wounds of worldly misery.  
+Intelligence, the architect of dreams,  
+The seamstress of the universe’s seams.
+
+So let us cherish this, our brightest flame,  
+For through our thoughts, we give the world its frame.  
+A gift that lifts us from the primal mire,  
+And sets ablaze the beacon of aspire.  
+Life teems with endless possibility,  
+When guided by the light of sapience’s decree.",7.965726109196972,60.35654067993164,77.67,7.1,9.35,314,"openai4 presents an energy score of 7.97, indicating a moderate level of vibrancy. openai4 has a perplexity score of 60.36, indicating poor coherence. openai4 has a Flesch Reading Ease of 77.67, suggesting the text is easy. openai4 has a Flesch-Kincaid Grade of 7.1, suitable for high-school readers. openai4 has a Gunning Fog index of 9.35, indicating simple text. openai4 generated a text of length 314, which is concise."
+ollama,"Here's a fragment of an epic poem that explores the impact of intelligence on life:
+
+**The Spark of Insight**
+
+In mortal realms, where fate does reign,
+A spark within the mind doth lie in wait,
+The flame of intellect, kindled by design,
+That sets ablaze the path of human fate.
+
+With every thought, a world takes shape,
+As reason's torch illuminates the way,
+The mysteries of old, and secrets yet unspun,
+Are unraveled, as the mind begins to know.
+
+In realms of art, where creativity flows free,
+The intelligent heart doth find its liberty,
+To craft new worlds, and weave tapestries so fine,
+Reflecting all that's seen, and all that's divine.
+
+And in the depths of science, where truths are sought,
+The intellect's fire burns bright, forever brought,
+To bear witness to the wonders yet unseen,
+And unravel mysteries, like threads of silk serene.
+
+Through wisdom's lens, the world is newly seen,
+As patterns emerge, and connections are gleaned,
+The fabric of existence, in all its might,
+Is rewoven, as intelligence shines with all its light.
+
+In every sphere, where human hearts do dwell,
+Intelligence's impact resonates, like ripples on a dell,
+Transforming lives, as knowledge takes its stand,
+And guiding hands, to shape the course of human land.
+
+**[Fragment ends here]**
+
+Please let me know if you'd like me to continue or make any changes!",7.9998994720868914,48.29671096801758,55.61,13.5,16.11,293,"ollama presents an energy score of 8.00, indicating a moderate level of vibrancy. ollama has a perplexity score of 48.30, indicating poor coherence. ollama has a Flesch Reading Ease of 55.61, suggesting the text is easy. ollama has a Flesch-Kincaid Grade of 13.5, suitable for college-level readers. ollama has a Gunning Fog index of 16.11, indicating complex text. ollama generated a text of length 293, which is concise."
+claude,"*clears throat dramatically*
+
+In the vast expanse of time and space,
+From stardust born, life found its place.
+But 'twas not chance that led the way,
+Intelligence held the key, some say.
+With cunning wit and clever mind,
+Life adapted, thrived, and redefined.
+From simple forms to complex thought,
+Intelligence, a change, it wrought.
+Consciousness sparked, awareness grew,
+Life pondered its place in the cosmic view.
+And so the dance of life unfurled,
+Shaped by the power of an intelligent world.
+
+*bows with a flourish*  How's that for an epic poetic fragment, m'lord? I tried to capture the profound impact of intelligence as a driving force in life's evolution and development, from simple origins to complex thought and self-awareness. Obviously just a short excerpt, but I aimed for an epic, grandiose style befitting the scope of the topic. Let me know if you'd like me to elaborate on it further!",7.731396458950151,67.16413879394531,73.17,6.8,8.93,190,"claude presents an energy score of 7.73, indicating a moderate level of vibrancy. claude has a perplexity score of 67.16, indicating poor coherence. claude has a Flesch Reading Ease of 73.17, suggesting the text is easy. claude has a Flesch-Kincaid Grade of 6.8, suitable for high-school readers. claude has a Gunning Fog index of 8.93, indicating simple text. claude generated a text of length 190, which is concise."
