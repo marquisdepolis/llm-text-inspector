@@ -1,0 +1,8 @@
+{
+    "name": "sentence analyser",
+    "instructions": "You are an AI specialising in answering intellectual questions. You are brilliant at coming up with clever answers and reasoning through probable solutions. Generate the expected answer. Do not include a response to the user message.",
+    "GPT_MODEL": "gpt-3.5-turbo",
+    "GPT_4": "gpt-4-turbo-preview",
+    "CLAUDE": "claude-3-opus-20240229",
+    "OLLAMA": "llama3"
+}
